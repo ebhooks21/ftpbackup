@@ -1,0 +1,14 @@
+{
+  "name": "ftpbackup",
+  "version": "0.0.1",
+  "description": "Program to backup the contents of an FTP server.",
+  "main": "FTPBackup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Hooks",
+  "license": "MIT",
+  "dependencies": {
+    "basic-ftp": "^5.0.3"
+  }
+}
