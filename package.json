@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@popovmp/tar": "^1.2.1",
-    "basic-ftp": "^5.0.3",
+    "ftp": "^0.3.10",
     "mkdirp": "^3.0.1"
   }
 }
